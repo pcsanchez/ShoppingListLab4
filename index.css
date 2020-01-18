@@ -1,0 +1,19 @@
+.checked {
+    text-decoration: line-through;
+}
+
+.ingredient {
+    border: 1px solid gray;
+    list-style-type: none;
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.ingredientName {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: gray;
+    font-style: italic;
+}
